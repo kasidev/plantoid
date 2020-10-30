@@ -1,0 +1,8 @@
+setAll(red)
+setPixel(5, 10, white)
+setPixel(5, 9, white)
+setPixel(5, 10, white)
+setPixel(5, 10, white)
+setPixel(5, 10, white)
+setPixel(5, 10, white)
+await display()
